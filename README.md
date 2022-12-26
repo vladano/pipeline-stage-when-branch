@@ -1,2 +1,2 @@
 # pipeline-stage-when-branch
-Test maste + branch dev Jenkins build
+Test master + branch dev Jenkins build
